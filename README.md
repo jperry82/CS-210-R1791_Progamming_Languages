@@ -10,7 +10,7 @@ The main problem tackled by the program was to ascertain how often different ite
 
 **Self-Review**
 What Was Done Well:
-- Modularity and Readability: The code was structured into clearn, distinct functions, ensuring that each logical operations was isolated and could be understood independently.
+- Modularity and Readability: The code was structured into clear, distinct functions, ensuring that each logical operations was isolated and could be understood independently.
 - User Experience: The UI is straightforward and instructive, fuiding the user through different functionalities without overwhelming them with complexity.
 - Data Management: Utilization of rthe 'std::map' for storing and retreiving item data was effective, providing a balance of data management efficiency and simplicity.
 
